@@ -55,5 +55,5 @@ def naming_system
     }
   }
   
-  return biological_life
+  return kingdom
 end
