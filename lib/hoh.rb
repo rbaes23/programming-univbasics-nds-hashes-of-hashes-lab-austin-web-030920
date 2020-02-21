@@ -45,7 +45,8 @@ def naming_system
     "Kingdom" => {
       "Phylum" => {
         "Class" => {
-          "Order" => {
+          :label => "Order"
+        }
             "Family" => {
               "Genus" => {
                 "Species" => []
