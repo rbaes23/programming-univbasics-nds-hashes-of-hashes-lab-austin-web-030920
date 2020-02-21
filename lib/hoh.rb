@@ -45,7 +45,7 @@ def naming_system
     :kingdom => {
       :phylum => {
         :class => {
-          Order: {
+          :order => {
             :family => {
               :genus => {
                 :species => nil
