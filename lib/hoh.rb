@@ -41,7 +41,7 @@ def naming_system
   #  Species
   # So, if we have the "Kingdom" node we should be able to "tunnel" into the
   # HoH all the way to Species!
-  biological_life = {
+  starting_node = {
     "Kingdom" => {
       "Phylum" => {
         "Class" => {
@@ -57,5 +57,5 @@ def naming_system
     }
   }
   
-  return biological_life
+  return starting_node
 end
